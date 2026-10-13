@@ -55,6 +55,8 @@ To launch Station, you need only API keys for your chosen model providers and th
 
 ## News
 
+**2026-10-06 — New paper.** We extend Station to open-ended scientific research in [Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station](https://arxiv.org/abs/2610.08927), showing that agents can independently recover around 60% of the findings from three ICLR oral papers.
+
 **2026-08-24 v2.0 update.** We announced Station v2 and its results on mathematical tasks. Across 12 mathematical tasks from AlphaEvolve, Station made new discoveries on five problems. Station also independently rediscovered a counterexample to the Jacobian conjecture within one day. Read the Station v2 paper, [*Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment*](https://arxiv.org/abs/2608.23691).
 
 **2026-06-14 math update.** Station proved **K(11) >= 604** with an explicit construction and proof. See the construction notebook: [Kissing Number in Dimension 11](news/2026-06-14-kissing.ipynb).
